@@ -1,0 +1,14 @@
+p {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+.other {
+    background-color: blue;
+}
+
+.lighter {
+    background-color: blue;
+    opacity: 50%;
+}
